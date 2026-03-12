@@ -1,0 +1,5 @@
+[
+  {"q":"What is ?", "options":["2","3","4","5"], "answer":"4"},
+  {"q":"Capital of India?", "options":["Delhi","Mumbai","Kolkata"], "answer":"Delhi"},
+  {"q":"Which language runs in browser?", "options":["Python","JavaScript","C++"], "answer":"JavaScript"}
+]

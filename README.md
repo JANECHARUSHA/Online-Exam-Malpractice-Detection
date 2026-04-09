@@ -89,6 +89,9 @@ This project was developed by:
 * Jane Charusha C J
 * Rakshana G
 * Agalya S
+* Abinaya D
+* Tejaswini
+* Priyadharshini S
 
 ---
 
